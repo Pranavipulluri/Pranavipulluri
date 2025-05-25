@@ -27,7 +27,8 @@ Here are some ideas to get you started:
 
 ### Let's Connect and have a Chat!💬
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com)]([https://www.linkedin.com](https://www.linkedin.com/in/pranavi-pulluri/))
-[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com)]([https://www.instagram.com](https://www.instagram.com/pranavi_pulluri/))
 
-<img src="[https://media.giphy.com/media/iN5dO7FnGsNnO/giphy.gif](https://giphy.com/gifs/sesamestreet-sesame-street-cookie-monster-GRPy8MKag9U1U88hzY)" width="300"/>
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pranavi-pulluri/)  
+[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/pranavi_pulluri/)
+
+<img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdGdwY3J5YTQxNXFla2xrYXdqZTdmNHVmYThicjQ3Z3RnNmcwcngzYiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/GRPy8MKag9U1U88hzY/giphy.webp" width="300"/>
