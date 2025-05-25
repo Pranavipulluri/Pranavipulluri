@@ -7,7 +7,6 @@
 
 ⚡ **Fun fact:** I give tech and artsy vibes — a rare dual-core personality.
 
----
 
 ### Let's Connect and have a Chat! 💬
 
