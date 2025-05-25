@@ -2,7 +2,7 @@
 
 ### Heyy there! Pranavi here 👋
 
-🌱 I'm currently trying to explore AI and ML...  
+🌱 I'm currently exploring the world of AI and ML...  
 🧠 Always learning new things  
 
 ⚡ **Fun fact:** I give tech and artsy vibes — a rare dual-core personality.
