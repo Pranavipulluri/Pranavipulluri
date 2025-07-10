@@ -265,12 +265,6 @@
 
 <br>
 
-<!-- Quote Section -->
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&border=true&quote=The%20best%20way%20to%20predict%20the%20future%20is%20to%20invent%20it&author=Alan%20Kay" />
-</div>
-
-
 
 <!-- Snake Game -->
 <div align="center">
