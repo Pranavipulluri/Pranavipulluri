@@ -8,6 +8,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&multiline=true&width=800&height=100&lines=Building+Intelligent+Systems+with+Modern+Tech;Crafting+Seamless+User+Experiences;Transforming+Ideas+into+Digital+Reality" alt="Typing SVG" />
 </div>
 
+
 <!-- Profile Stats -->
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=Pranavipulluri&style=flat-square&color=6366f1&label=Profile+Views" alt="Profile Views" />
@@ -114,25 +115,25 @@
   <table>
     <tr>
       <td width="50%">
-        <h3 align="center">🛡️ SmartShield</h3>
-        <div align="center">
-          <a href="https://github.com/Pranavipulluri/smartshield">
-            <img src="https://github-readme-stats.vercel.app/api/pin/?username=Pranavipulluri&repo=smartshield&theme=tokyonight&border_color=6366f1&bg_color=0d1117&title_color=6366f1&text_color=ffffff" />
-          </a>
-          <br><br>
-          <img src="https://img.shields.io/badge/YOLOv3-FF6B6B?style=flat-square&logo=python&logoColor=white" />
-          <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white" />
-          <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" />
-          <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white" />
-          <br>
-          <sub>🎯 AI-powered traffic management with real-time helmet detection</sub>
-        </div>
+        <h3 align="center">🛒 LocalMart</h3>
+<div align="center">
+  <a href="https://github.com/Pranavipulluri/Localmart">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Pranavipulluri&repo=Localmart&theme=tokyonight&border_color=6366f1&bg_color=0d1117&title_color=6366f1&text_color=ffffff" />
+  </a>
+  <br><br>
+  <img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=flat-square&logo=android-studio&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white" />
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" />
+  <img src="https://img.shields.io/badge/ML_Kit-4285F4?style=flat-square&logo=google&logoColor=white" />
+  <br>
+  <sub>🛍️ e-commerce app connecting users to nearby stores with AI matching</sub>
+</div>
       </td>
       <td width="50%">
         <h3 align="center">🌐 AllMadeEasy</h3>
         <div align="center">
-          <a href="https://github.com/Pranavipulluri/allmadeeasy">
-            <img src="https://github-readme-stats.vercel.app/api/pin/?username=Pranavipulluri&repo=allmadeeasy&theme=tokyonight&border_color=6366f1&bg_color=0d1117&title_color=6366f1&text_color=ffffff" />
+          <a href="https://github.com/Pranavipulluri/All-Made-Easy">
+            <img src="https://github-readme-stats.vercel.app/api/pin/?username=Pranavipulluri&repo=All-Made-Easy&theme=tokyonight&border_color=6366f1&bg_color=0d1117&title_color=6366f1&text_color=ffffff" />
           </a>
           <br><br>
           <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
@@ -148,8 +149,8 @@
       <td width="50%">
         <h3 align="center">🎮 CultQuest</h3>
         <div align="center">
-          <a href="https://github.com/Pranavipulluri/cultquest">
-            <img src="https://github-readme-stats.vercel.app/api/pin/?username=Pranavipulluri&repo=cultquest&theme=tokyonight&border_color=6366f1&bg_color=0d1117&title_color=6366f1&text_color=ffffff" />
+          <a href="https://github.com/Pranavipulluri/Cult-Quest">
+            <img src="https://github-readme-stats.vercel.app/api/pin/?username=Pranavipulluri&repo=Cult-Quest&theme=tokyonight&border_color=6366f1&bg_color=0d1117&title_color=6366f1&text_color=ffffff" />
           </a>
           <br><br>
           <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
@@ -213,7 +214,7 @@
   <table>
     <tr>
       <td align="center" width="33%">
-        <img src="https://img.shields.io/badge/🏆-HackFinti_Winner-FFD700?style=for-the-badge&labelColor=1f2937" />
+        <img src="https://img.shields.io/badge/🏆-HackFinti_SpecialMentions-FFD700?style=for-the-badge&labelColor=1f2937" />
         <br><sub>24-hour Inter-college Hackathon</sub>
       </td>
       <td align="center" width="33%">
@@ -269,15 +270,7 @@
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&border=true&quote=The%20best%20way%20to%20predict%20the%20future%20is%20to%20invent%20it&author=Alan%20Kay" />
 </div>
 
-<!-- Footer -->
-<div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:6E44FF,100:6E44FF&height=120&section=footer"/>
 
-</div>
-
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&duration=4000&pause=1000&color=6366F1&center=true&vCenter=true&width=600&lines=Thanks+for+visiting+my+profile!+⭐;Always+excited+to+collaborate+on+innovative+projects;Building+tomorrow's+technology+today+🚀" alt="Footer Typing" />
-</div>
 
 <!-- Snake Game -->
 <div align="center">
