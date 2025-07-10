@@ -30,15 +30,12 @@
 <tr>
 <td width="50%" valign="top">
 
-### 💡 My Interests
 
-- 🤖 **AI & Machine Learning** – especially in **Computer Vision** and **Natural Language Processing (NLP)**
-- 🧠 **System Design & Architecture** – building scalable, efficient systems
-- 🌐 **Full Stack Development** – crafting seamless user experiences
-- 💬 **Open Source Contributions** – collaborating and giving back to the community
-- 🎨 **Creative Arts & Design** – storytelling, visual aesthetics, and expressive digital media
-- 📈 **Tech for Social Impact** – building tools that solve real-world problems
-
+### 🎓 Education & Certifications
+- 📊 **Data Science & Gen AI** - 93.33% (First Division)
+- 💻 **Full Stack Development (MERN)** - Project-Based
+- 🏅 **Modern Programming in C++** - Smart Interviews
+- 🤖 **AI Specialization** - Infosys SpringBoard
 
 ### 🏆 Recent Achievements
 - 🥇 **HackFinti Winner** - 24hr Hackathon Champion
@@ -66,13 +63,6 @@
   *Saola Innovations*  
   work on **UI Performance Optimization** for cutting-edge product interfaces.
 
-
-
-### 🎓 Education & Certifications
-- 📊 **Data Science & Gen AI** - 93.33% (First Division)
-- 💻 **Full Stack Development (MERN)** - Project-Based
-- 🏅 **Modern Programming in C++** - Smart Interviews
-- 🤖 **AI Specialization** - Infosys SpringBoard
 
 </td>
 </tr>
