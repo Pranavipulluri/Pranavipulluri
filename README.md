@@ -1,120 +1,295 @@
-# Hi there! 👋 I'm Pranavi Pulluri
-
+<!-- Header Section with Gradient Background -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=00D4FF&center=true&vCenter=true&width=550&lines=Full+Stack+Developer;AI+%26+ML+Engineer;Open+Source+Contributor" alt="Typing SVG" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=200&section=header&text=Pranavi%20Pulluri&fontSize=80&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Developer%20|%20AI%20Enthusiast%20|%20Problem%20Solver&descAlignY=55&descAlign=50"/>
+</div>
+
+<!-- Typing Animation -->
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&multiline=true&width=800&height=100&lines=Building+Intelligent+Systems+with+Modern+Tech;Crafting+Seamless+User+Experiences;Transforming+Ideas+into+Digital+Reality" alt="Typing SVG" />
+</div>
+
+<!-- Profile Stats -->
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=Pranavipulluri&style=flat-square&color=6366f1&label=Profile+Views" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/Pranavipulluri?style=flat-square&color=6366f1&labelColor=1f2937&logo=github" alt="Followers" />
+  <img src="https://img.shields.io/badge/Focus-AI%20%26%20Full%20Stack-6366f1?style=flat-square&labelColor=1f2937" alt="Focus" />
+  <img src="https://img.shields.io/badge/Location-Hyderabad%2C%20India-6366f1?style=flat-square&labelColor=1f2937&logo=googlemaps" alt="Location" />
+</div>
+
+<br>
+
+<!-- About Section -->
+<div align="center">
+  <h2>
+    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
+    About Me
+  </h2>
+</div>
+
+<table align="center" style="border: none;">
+<tr>
+<td width="50%" valign="top">
+
+### 💡 My Interests
+
+- 🤖 **AI & Machine Learning** – especially in **Computer Vision** and **Natural Language Processing (NLP)**
+- 🧠 **System Design & Architecture** – building scalable, efficient systems
+- 🌐 **Full Stack Development** – crafting seamless user experiences
+- 💬 **Open Source Contributions** – collaborating and giving back to the community
+- 🎨 **Creative Arts & Design** – storytelling, visual aesthetics, and expressive digital media
+- 📈 **Tech for Social Impact** – building tools that solve real-world problems
+
+
+### 🏆 Recent Achievements
+- 🥇 **HackFinti Winner** - 24hr Hackathon Champion
+- 🎯 **JEE Advanced AIR 15182** - Top 1% in India
+- 🏅 **2nd Place Designathon** - Innovation in Design
+- 📱 **AndroidX Workshop Winner** - UI/UX Excellence
+- 🎤 **Master Orator** - Public Speaking Champion
+
+</td>
+<td width="50%" valign="top">
+
+### 💼 Professional Experience
+
+- 🔧 **Full Stack Developer**  
+  *Rudraksha Welfare Foundation*  
+  *May 2025 – Jul-2025*  
+  interacted with real world clients, designed, built and managed CRM for the websites.
+  worked with 2 lawfirms to build their fully functional websites.
+
+- 🤖 **AI Research Intern**  
+  *Swecha (Summer of AI 2025)*  
+  Contributed to the **Telugu AI Foundation Model**, focusing on regional language AI research and development.
+
+- 🧪 **Student Intern**  
+  *Saola Innovations*  
+  work on **UI Performance Optimization** for cutting-edge product interfaces.
+
+
+
+### 🎓 Education & Certifications
+- 📊 **Data Science & Gen AI** - 93.33% (First Division)
+- 💻 **Full Stack Development (MERN)** - Project-Based
+- 🏅 **Modern Programming in C++** - Smart Interviews
+- 🤖 **AI Specialization** - Infosys SpringBoard
+
+</td>
+</tr>
+</table>
+
+<!-- Skills Section -->
+<div align="center">
+  <h2>🛠️ Technical Expertise</h2>
 </div>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Pranavipulluri&style=flat-square&color=00d4ff" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/Pranavipulluri?style=flat-square&color=00d4ff" alt="Followers" />
-</div>
-
----
-
-## 🚀 About
-
-```typescript
-const developer = {
-  name: "Pranavi Pulluri",
-  role: "Full Stack Developer & AI Engineer",
-  location: "Hyderabad, India",
-  education: "BTech IT @ VNR VJIET",
   
-  languages: ["Python", "JavaScript", "C", "SQL"],
-  frontend: ["React.js", "HTML5", "CSS3", "Tailwind"],
-  backend: ["Node.js", "Express.js", "Flask", "Django"],
-  ai_ml: ["TensorFlow", "OpenCV", "YOLOv3", "Scikit-learn"],
-  databases: ["MongoDB", "Firebase", "SQLite"],
-  
-  currentFocus: "Building AI-powered applications & contributing to Telugu AI model",
-  contact: "pulluripranavi@gmail.com"
-};
-```
+### Languages & Core Technologies
+<p>
+  <img src="https://skillicons.dev/icons?i=python,javascript,java,c,cpp,html,css,sql&perline=9&theme=dark" />
+</p>
 
----
+### Frontend & UI/UX
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,bootstrap,figma&perline=7&theme=dark" />
+</p>
 
-## 🛠️ Tech Stack
+### Backend & Database
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,django,flask,mongodb,mysql&perline=8&theme=dark" />
+</p>
 
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=python,javascript,react,nodejs,flask,django,mongodb,tensorflow,html,css,git,figma&perline=8" alt="Tech Stack" />
+### AI/ML & Data Science
+<p>
+  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv&perline=3&theme=dark" />
+  <img height="50" src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
+  <img height="50" src="https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img height="50" src="https://img.shields.io/badge/numpy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+</p>
+
+### DevOps & Tools
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,docker,firebase,vscode&perline=7&theme=dark" />
+</p>
+
 </div>
 
----
-
-## 📊 GitHub Stats
-
+<!-- Projects Section -->
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Pranavipulluri&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d4ff&text_color=c9d1d9"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pranavipulluri&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d4ff&text_color=c9d1d9"/>
+  <h2>🚀 Featured Projects</h2>
 </div>
 
----
-
-## 🏆 Featured Projects
-
-| Project | Description | Stack | Status |
-|---------|-------------|-------|--------|
-| **🛡️ SmartShield** | AI traffic management with helmet detection | YOLOv3, OpenCV, Flask | ![Live](https://img.shields.io/badge/Live-success) |
-| **🏘️ AllMadeEasy** | Community hub with integrated services | Flask, SQLAlchemy, News API | ![Active](https://img.shields.io/badge/Active-blue) |
-| **🎮 CultQuest** | Gaming community platform | React, Node.js, MongoDB | ![Complete](https://img.shields.io/badge/Complete-green) |
-| **🏪 SmartVend** | Vending machine interface with payments | Node.js, MongoDB, Razorpay | ![Deployed](https://img.shields.io/badge/Deployed-orange) |
-
----
-
-## 🎯 Experience
-
-**Full Stack Developer** @ Rudraksha Welfare Foundation *(May 2025 - Present)*
-- Designed and deployed custom CRM solutions for diverse clients
-- Built responsive interfaces using React.js and WordPress
-
-**Student Intern** @ Saola Innovations *(Feb 2025)*
-- Optimizing UI performance for large-scale database operations
-- API integration and frontend development
-
-**Core Team Member** @ VJ Codelabs *(Nov 2024)*
-- Created technical tutorials for college portal
-- Improved student developer experience
-
----
-
-## 🏅 Achievements
-
 <div align="center">
-  <img src="https://img.shields.io/badge/🏆_HackFinti-Winner-gold?style=for-the-badge" alt="HackFinti" />
-  <img src="https://img.shields.io/badge/🥈_Designathon-2nd_Place-silver?style=for-the-badge" alt="Designathon" />
-  <img src="https://img.shields.io/badge/📱_AndroidX-Winner-green?style=for-the-badge" alt="AndroidX" />
+  <table>
+    <tr>
+      <td width="50%">
+        <h3 align="center">🛡️ SmartShield</h3>
+        <div align="center">
+          <a href="https://github.com/Pranavipulluri/smartshield">
+            <img src="https://github-readme-stats.vercel.app/api/pin/?username=Pranavipulluri&repo=smartshield&theme=tokyonight&border_color=6366f1&bg_color=0d1117&title_color=6366f1&text_color=ffffff" />
+          </a>
+          <br><br>
+          <img src="https://img.shields.io/badge/YOLOv3-FF6B6B?style=flat-square&logo=python&logoColor=white" />
+          <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white" />
+          <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" />
+          <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white" />
+          <br>
+          <sub>🎯 AI-powered traffic management with real-time helmet detection</sub>
+        </div>
+      </td>
+      <td width="50%">
+        <h3 align="center">🌐 AllMadeEasy</h3>
+        <div align="center">
+          <a href="https://github.com/Pranavipulluri/allmadeeasy">
+            <img src="https://github-readme-stats.vercel.app/api/pin/?username=Pranavipulluri&repo=allmadeeasy&theme=tokyonight&border_color=6366f1&bg_color=0d1117&title_color=6366f1&text_color=ffffff" />
+          </a>
+          <br><br>
+          <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+          <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white" />
+          <img src="https://img.shields.io/badge/SQLAlchemy-D71F00?style=flat-square&logo=sqlalchemy&logoColor=white" />
+          <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+          <br>
+          <sub>🏘️ Comprehensive community hub with integrated services</sub>
+        </div>
+      </td>
+    </tr>
+    <tr>
+      <td width="50%">
+        <h3 align="center">🎮 CultQuest</h3>
+        <div align="center">
+          <a href="https://github.com/Pranavipulluri/cultquest">
+            <img src="https://github-readme-stats.vercel.app/api/pin/?username=Pranavipulluri&repo=cultquest&theme=tokyonight&border_color=6366f1&bg_color=0d1117&title_color=6366f1&text_color=ffffff" />
+          </a>
+          <br><br>
+          <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
+          <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" />
+          <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
+          <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white" />
+          <br>
+          <sub>🎯 Interactive gaming platform with community features</sub>
+        </div>
+      </td>
+      <td width="50%">
+        <h3 align="center">💊 SmartVend</h3>
+        <div align="center">
+          <a href="https://github.com/Pranavipulluri/smartvend">
+            <img src="https://github-readme-stats.vercel.app/api/pin/?username=Pranavipulluri&repo=smartvend&theme=tokyonight&border_color=6366f1&bg_color=0d1117&title_color=6366f1&text_color=ffffff" />
+          </a>
+          <br><br>
+          <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" />
+          <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
+          <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" />
+          <img src="https://img.shields.io/badge/Razorpay-02042B?style=flat-square&logo=razorpay&logoColor=white" />
+          <br>
+          <sub>💳 Digital vending interface with payment integration</sub>
+        </div>
+      </td>
+    </tr>
+  </table>
 </div>
 
-- **JEE Advanced:** AIR 15,182 | **JEE Mains:** 94.84%ile | **EAMCET:** Rank 3,393
-- **Data Science & Gen AI:** 93.33% (First Division with Distinction)
-- **Contributing to Telugu AI foundational model** - Summer of AI 2025
-
----
-
-## 📈 Activity
-
+<!-- GitHub Stats -->
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Pranavipulluri&theme=tokyonight&hide_border=true&background=0d1117&stroke=00d4ff&ring=00d4ff&fire=00d4ff" alt="GitHub Streak" />
+  <h2>📊 GitHub Analytics</h2>
 </div>
 
----
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Pranavipulluri&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&border_color=6366f1&bg_color=0d1117&title_color=6366f1&text_color=ffffff&icon_color=6366f1"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pranavipulluri&layout=compact&langs_count=10&theme=tokyonight&border_color=6366f1&bg_color=0d1117&title_color=6366f1&text_color=ffffff"/>
+</div>
 
-## 🌐 Connect
+<br>
 
 <div align="center">
-  <a href="mailto:pulluripranavi@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Pranavipulluri&theme=tokyonight&border=6366f1&background=0d1117&ring=6366f1&fire=6366f1&currStreakLabel=6366f1&sideLabels=6366f1&currStreakNum=ffffff&sideNums=ffffff&dates=ffffff" alt="GitHub Streak" />
+</div>
+
+<br>
+
+
+<!-- Achievements Section -->
+<div align="center">
+  <h2>🏆 Achievements & Recognition</h2>
+</div>
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Pranavipulluri&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=7&row=1&rank=SSS,SS,S,AAA,AA,A,B" />
+</div>
+
+<br>
+
+<div align="center">
+  <table>
+    <tr>
+      <td align="center" width="33%">
+        <img src="https://img.shields.io/badge/🏆-HackFinti_Winner-FFD700?style=for-the-badge&labelColor=1f2937" />
+        <br><sub>24-hour Inter-college Hackathon</sub>
+      </td>
+      <td align="center" width="33%">
+        <img src="https://img.shields.io/badge/🥈-Designathon_2nd_Place-C0C0C0?style=for-the-badge&labelColor=1f2937" />
+        <br><sub>Innovation in Design Competition</sub>
+      </td>
+      <td align="center" width="33%">
+        <img src="https://img.shields.io/badge/📱-AndroidX_Winner-00C851?style=for-the-badge&labelColor=1f2937" />
+        <br><sub>UI/UX Excellence Award</sub>
+      </td>
+    </tr>
+    <tr>
+      <td align="center" width="33%">
+        <img src="https://img.shields.io/badge/🎯-JEE_Advanced_AIR_15182-FF6B6B?style=for-the-badge&labelColor=1f2937" />
+        <br><sub>Top 1% in National Engineering Entrance</sub>
+      </td>
+      <td align="center" width="33%">
+        <img src="https://img.shields.io/badge/🎤-Master_Orator-6366F1?style=for-the-badge&labelColor=1f2937" />
+        <br><sub>Public Speaking Championship</sub>
+      </td>
+      <td align="center" width="33%">
+        <img src="https://img.shields.io/badge/📊-GPA_8.98-4ECDC4?style=for-the-badge&labelColor=1f2937" />
+        <br><sub>Academic Excellence</sub>
+      </td>
+    </tr>
+  </table>
+</div>
+
+<!-- Connect Section -->
+<div align="center">
+  <h2>🌐 Let's Connect</h2>
+</div>
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/pranavi-pulluri/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0077B5" />
   </a>
-  <a href="https://linkedin.com/in/pranavipulluri">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  <a href="mailto:pulluripranavi@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=D14836" />
   </a>
   <a href="https://github.com/Pranavipulluri">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=181717" />
+  </a>
+  <a href="https://www.instagram.com/pranavi_pulluri/">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=E4405F" />
   </a>
 </div>
 
----
+<br>
+
+<!-- Quote Section -->
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&border=true&quote=The%20best%20way%20to%20predict%20the%20future%20is%20to%20invent%20it&author=Alan%20Kay" />
+</div>
+
+<!-- Footer -->
+<div align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:6E44FF,100:6E44FF&height=120&section=footer"/>
+
+</div>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=00d4ff&height=100&section=footer" alt="Footer" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&duration=4000&pause=1000&color=6366F1&center=true&vCenter=true&width=600&lines=Thanks+for+visiting+my+profile!+⭐;Always+excited+to+collaborate+on+innovative+projects;Building+tomorrow's+technology+today+🚀" alt="Footer Typing" />
+</div>
+
+<!-- Snake Game -->
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Pranavipulluri/Pranavipulluri/output/github-contribution-grid-snake.svg" alt="Snake Game" />
 </div>
