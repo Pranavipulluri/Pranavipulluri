@@ -39,8 +39,8 @@
 - 🤖 **AI Specialization** - Infosys SpringBoard
 
 ### 🏆 Recent Achievements
-- 🥇 **HackFinti Winner** - 24hr Hackathon Champion
-- 🎯 **JEE Advanced AIR 15182** - Top 1% in India
+- 🥇 **HackFinti Special mentions** - 24hr Hackathon Champion
+- 🎯 **JEE Advanced AIR 15182**
 - 🏅 **2nd Place Designathon** - Innovation in Design
 - 📱 **AndroidX Workshop Winner** - UI/UX Excellence
 - 🎤 **Master Orator** - Public Speaking Champion
