@@ -35,8 +35,8 @@
 ### 🎓 Education & Certifications
 - 📊 **Data Science & Gen AI** - 93.33% (First Division)
 - 💻 **Full Stack Development (MERN)** - Project-Based
-- 🏅 **Modern Programming in C++** - Smart Interviews
-- 🤖 **AI Specialization** - Infosys SpringBoard
+- 🏅 **Modern Programming in C++** - NPTEL
+- 🤖 **Android and python development** - Udemy
 
 ### 🏆 Recent Achievements
 - 🥇 **HackFinti Special mentions** - 24hr Hackathon Champion
