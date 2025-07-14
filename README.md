@@ -262,6 +262,11 @@
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=E4405F" />
   </a>
 </div>
+<br>
+<div align="center">
+  <a href="https://myportfolio-iota-indol-64.vercel.app/" target="_blank">🔗 Visit My Portfolio</a>
+</div>
+
 
 <br>
 
