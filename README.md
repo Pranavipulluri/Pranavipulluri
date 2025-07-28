@@ -3,19 +3,11 @@
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=200&section=header&text=Pranavi%20Pulluri&fontSize=80&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Developer%20|%20AI%20Enthusiast%20|%20Problem%20Solver&descAlignY=55&descAlign=50"/>
 </div>
 
-<!-- Typing Animation -->
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&multiline=true&width=800&height=100&lines=Building+Intelligent+Systems+with+Modern+Tech;Crafting+Seamless+User+Experiences;Transforming+Ideas+into+Digital+Reality" alt="Typing SVG" />
-</div>
+
 
 
 <!-- Profile Stats -->
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Pranavipulluri&style=flat-square&color=6366f1&label=Profile+Views" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/Pranavipulluri?style=flat-square&color=6366f1&labelColor=1f2937&logo=github" alt="Followers" />
-  <img src="https://img.shields.io/badge/Focus-AI%20%26%20Full%20Stack-6366f1?style=flat-square&labelColor=1f2937" alt="Focus" />
-  <img src="https://img.shields.io/badge/Location-Hyderabad%2C%20India-6366f1?style=flat-square&labelColor=1f2937&logo=googlemaps" alt="Location" />
-</div>
+
 
 <br>
 
@@ -200,13 +192,7 @@
 
 
 <!-- Achievements Section -->
-<div align="center">
-  <h2>🏆 Achievements & Recognition</h2>
-</div>
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Pranavipulluri&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=7&row=1&rank=SSS,SS,S,AAA,AA,A,B" />
-</div>
 
 <br>
 
@@ -263,9 +249,7 @@
   </a>
 </div>
 <br>
-<div align="center">
-  <a href="https://myportfolio-iota-indol-64.vercel.app/" target="_blank">🔗 Visit My Portfolio</a>
-</div>
+
 
 
 <br>
