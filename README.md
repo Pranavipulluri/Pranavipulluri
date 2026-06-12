@@ -1,116 +1,173 @@
-<!-- Header Section with Gradient Background -->
+<!-- Header Section -->
+<!-- Pink Gradient Header -->
+
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=200&section=header&text=Pranavi%20Pulluri&fontSize=80&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Developer%20|%20AI%20Enthusiast%20|%20Problem%20Solver&descAlignY=55&descAlign=50"/>
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&section=header&text=Pranavi%20Pulluri&fontSize=80&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Developer%20|%20AI%20Enthusiast%20|%20Problem%20Solver&descAlignY=55&descAlign=50&color=0:ffc0cb,30:ff9ecf,70:ff69b4,100:ff1493"/>
 </div>
-
-
-
-
-<!-- Profile Stats -->
-
-
 <br>
 
 <!-- About Section -->
+## 👩‍💻 About Me
+
 <div align="center">
-  <h2>
-    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
-    About Me
-  </h2>
+<p>
+Final year CS & Data Science student at VNR VJIET · Building AI-powered full-stack products focused on accessibility, local empowerment, and real-world impact · Passionate about turning complex problems into clean, usable software
+</p>
 </div>
 
-<table align="center" style="border: none;">
+
+<br>
+<div>
+  <h2>🛠️ Tech Stack</h2>
+</div>
+
+<div align="center">
+
+<table>
 <tr>
-<td width="50%" valign="top">
+<td align="center" width="50%">
 
+**Languages**
 
-### 🎓 Education & Certifications
-- 📊 **Data Science & Gen AI** - 93.33% (First Division)
-- 💻 **Full Stack Development (MERN)** - Project-Based
-- 🏅 **Modern Programming in C++** - NPTEL
-- 🤖 **Android and python development** - Udemy
-
-### 🏆 Recent Achievements
-- 🥇 **HackFinti Special mentions** - 24hr Hackathon Champion
-- 🎯 **JEE Advanced AIR 15182**
-- 🏅 **2nd Place Designathon** - Innovation in Design
-- 📱 **AndroidX Workshop Winner** - UI/UX Excellence
-- 🎤 **Master Orator** - Public Speaking Champion
+![Python](https://img.shields.io/badge/Python-ff1493?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-ff4da6?style=for-the-badge&logo=javascript&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-ff69b4?style=for-the-badge&logo=typescript&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ff1493?style=for-the-badge&logo=openjdk&logoColor=white)
+![C](https://img.shields.io/badge/C-ff4da6?style=for-the-badge&logo=c&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-ff69b4?style=for-the-badge&logo=mysql&logoColor=white)
 
 </td>
-<td width="50%" valign="top">
+<td align="center" width="50%">
 
-### 💼 Professional Experience
+**Frontend & Backend**
 
-- 🔧 **Full Stack Developer**  
-  *Rudraksha Welfare Foundation*  
-  *May 2025 – Jul-2025*  
-  interacted with real world clients, designed, built and managed CRM for the websites.
-  worked with 2 lawfirms to build their fully functional websites.
+![React](https://img.shields.io/badge/React-ff1493?style=for-the-badge&logo=react&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-ff4da6?style=for-the-badge&logo=flask&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-ff69b4?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-ff1493?style=for-the-badge&logo=express&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind-ff4da6?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![WebSockets](https://img.shields.io/badge/WebSockets-ff69b4?style=for-the-badge&logo=socketdotio&logoColor=white)
 
-- 🤖 **AI Research Intern**  
-  *Swecha (Summer of AI 2025)*  
-  Contributed to the **Telugu AI Foundation Model**, focusing on regional language AI research and development.
+</td>
+</tr>
+<tr>
+<td align="center" width="50%">
 
-- 🧪 **Student Intern**  
-  *Saola Innovations*  
-  work on **UI Performance Optimization** for cutting-edge product interfaces.
+**AI & ML**
 
+![PyTorch](https://img.shields.io/badge/PyTorch-ff1493?style=for-the-badge&logo=pytorch&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-ff4da6?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-ff69b4?style=for-the-badge&logo=chainlink&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-ff1493?style=for-the-badge&logo=opencv&logoColor=white)
+![Gemini AI](https://img.shields.io/badge/Gemini_AI-ff4da6?style=for-the-badge&logo=google&logoColor=white)
+![YOLO](https://img.shields.io/badge/YOLO-ff69b4?style=for-the-badge&logo=yolo&logoColor=white)
+
+</td>
+<td align="center" width="50%">
+
+**Databases & Cloud**
+
+![MongoDB](https://img.shields.io/badge/MongoDB-ff1493?style=for-the-badge&logo=mongodb&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-ff4da6?style=for-the-badge&logo=firebase&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-ff69b4?style=for-the-badge&logo=amazonwebservices&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-ff1493?style=for-the-badge&logo=postgresql&logoColor=white)
+![Atlas Vector DB](https://img.shields.io/badge/Atlas_Vector_DB-ff4da6?style=for-the-badge&logo=mongodb&logoColor=white)
+
+</td>
+</tr>
+<tr>
+<td align="center" colspan="2">
+
+**Tools & Platforms**
+
+![Git](https://img.shields.io/badge/Git-ff1493?style=for-the-badge&logo=git&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-ff4da6?style=for-the-badge&logo=figma&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-ff69b4?style=for-the-badge&logo=postman&logoColor=white)
+![Tableau](https://img.shields.io/badge/Tableau-ff1493?style=for-the-badge&logo=tableau&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-ff4da6?style=for-the-badge&logo=powerbi&logoColor=white)
+![Figma](https://img.shields.io/badge/Three.js-ff69b4?style=for-the-badge&logo=threedotjs&logoColor=white)
 
 </td>
 </tr>
 </table>
 
+</div>
+<br>
+<!-- GitHub Analytics -->
 
-<!-- GitHub Stats -->
-<div align="center">
+<div>
   <h2>📊 GitHub Analytics</h2>
 </div>
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Pranavipulluri&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&border_color=6366f1&bg_color=0d1117&title_color=6366f1&text_color=ffffff&icon_color=6366f1"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pranavipulluri&layout=compact&langs_count=10&theme=tokyonight&border_color=6366f1&bg_color=0d1117&title_color=6366f1&text_color=ffffff"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Pranavipulluri&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&border_color=ff1493&bg_color=0d1117&title_color=ff1493&text_color=ffffff&icon_color=ff1493"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pranavipulluri&layout=compact&langs_count=10&theme=tokyonight&border_color=ff1493&bg_color=0d1117&title_color=ff1493&text_color=ffffff"/>
+
 </div>
 
 <br>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Pranavipulluri&theme=tokyonight&border=6366f1&background=0d1117&ring=6366f1&fire=6366f1&currStreakLabel=6366f1&sideLabels=6366f1&currStreakNum=ffffff&sideNums=ffffff&dates=ffffff" alt="GitHub Streak" />
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Pranavipulluri&theme=tokyonight&border=ff1493&background=0d1117&ring=ff1493&fire=ff1493&currStreakLabel=ff1493&sideLabels=ff1493&currStreakNum=ffffff&sideNums=ffffff&dates=ffffff"/>
+
 </div>
 
 <br>
 
 
-<!-- Connect Section -->
-<div align="center">
-  <h2>🌐 Let's Connect</h2>
+<!-- Contribution Snake -->
+
+<div>
+  <h2>🐍 Contribution Snake</h2>
 </div>
 
-<div align="center">
-  <a href="https://www.linkedin.com/in/pranavi-pulluri/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0077B5" />
-  </a>
-  <a href="mailto:pulluripranavi@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=D14836" />
-  </a>
-  <a href="https://github.com/Pranavipulluri">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=181717" />
-  </a>
-  <a href="https://www.instagram.com/pranavi_pulluri/">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=E4405F" />
-  </a>
-</div>
-<br>
-
-
-
-<br>
-
-
-<!-- Snake Game -->
-
-<p>
-    <p align="center"><img src="assets/snakegridtitle.gif" width="500" ></p>
-    <img src="https://raw.githubusercontent.com/Pranavipulluri/Pranavipulluri/snake/github-snake-dark.svg" width="100%"><br>
+<p align="center">
+  <img src="assets/snakegridtitle.gif" width="500">
 </p>
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Pranavipulluri/Pranavipulluri/snake/github-snake-dark.svg" width="100%">
+</p>
+
+<br>
+
+<!-- Connect Section -->
+
+<div>
+  <h2>🤝 Let's Connect</h2>
+</div>
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/pranavi-pulluri/">
+<img src="https://img.shields.io/badge/LinkedIn-ff1493?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:pulluripranavi@gmail.com">
+<img src="https://img.shields.io/badge/Email-ff4da6?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://github.com/Pranavipulluri">
+<img src="https://img.shields.io/badge/GitHub-ff69b4?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://www.instagram.com/pranavi_pulluri/">
+<img src="https://img.shields.io/badge/Instagram-ff1493?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
+
+</div>
+
+
+
+<br>
+
+<!-- Footer -->
+
+<!-- Pink Gradient Footer -->
+
+<div align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:ff1493,30:ff69b4,70:ff9ecf,100:ffc0cb"/>
+</div>
