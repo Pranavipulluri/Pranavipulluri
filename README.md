@@ -81,44 +81,6 @@
 <br>
 
 
-<!-- Achievements Section -->
-
-
-<br>
-
-<div align="center">
-  <table>
-    <tr>
-      <td align="center" width="33%">
-        <img src="https://img.shields.io/badge/🏆-HackFinti_SpecialMentions-FFD700?style=for-the-badge&labelColor=1f2937" />
-        <br><sub>24-hour Inter-college Hackathon</sub>
-      </td>
-      <td align="center" width="33%">
-        <img src="https://img.shields.io/badge/🥈-Designathon_2nd_Place-C0C0C0?style=for-the-badge&labelColor=1f2937" />
-        <br><sub>Innovation in Design Competition</sub>
-      </td>
-      <td align="center" width="33%">
-        <img src="https://img.shields.io/badge/📱-AndroidX_Winner-00C851?style=for-the-badge&labelColor=1f2937" />
-        <br><sub>UI/UX Excellence Award</sub>
-      </td>
-    </tr>
-    <tr>
-      <td align="center" width="33%">
-        <img src="https://img.shields.io/badge/🎯-JEE_Advanced_AIR_15182-FF6B6B?style=for-the-badge&labelColor=1f2937" />
-        <br><sub>Top 1% in National Engineering Entrance</sub>
-      </td>
-      <td align="center" width="33%">
-        <img src="https://img.shields.io/badge/🎤-Master_Orator-6366F1?style=for-the-badge&labelColor=1f2937" />
-        <br><sub>Public Speaking Championship</sub>
-      </td>
-      <td align="center" width="33%">
-        <img src="https://img.shields.io/badge/📊-GPA_8.98-4ECDC4?style=for-the-badge&labelColor=1f2937" />
-        <br><sub>Academic Excellence</sub>
-      </td>
-    </tr>
-  </table>
-</div>
-
 <!-- Connect Section -->
 <div align="center">
   <h2>🌐 Let's Connect</h2>
@@ -146,6 +108,9 @@
 
 
 <!-- Snake Game -->
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Pranavipulluri/Pranavipulluri/output/github-contribution-grid-snake.svg" alt="Snake Game" />
-</div>
+
+<p>
+    <p align="center"><img src="assets/snakegridtitle.gif" width="500" ></p>
+    <img src="https://raw.githubusercontent.com/Pranavipulluri/Pranavipulluri/snake/github-snake-dark.svg" width="100%"><br>
+</p>
+
