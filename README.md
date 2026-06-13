@@ -22,7 +22,6 @@ Final year CS & Data Science student at VNR VJIET · Building AI-powered full-st
 </div>
 
 <div align="center">
-
 <table>
 <tr>
 <td align="center" width="50%">
@@ -30,22 +29,21 @@ Final year CS & Data Science student at VNR VJIET · Building AI-powered full-st
 **Languages**
 
 ![Python](https://img.shields.io/badge/Python-ff1493?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-ff4da6?style=for-the-badge&logo=javascript&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-ff69b4?style=for-the-badge&logo=typescript&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ff1493?style=for-the-badge&logo=openjdk&logoColor=white)
-![C](https://img.shields.io/badge/C-ff4da6?style=for-the-badge&logo=c&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-ff69b4?style=for-the-badge&logo=mysql&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ff4da6?style=for-the-badge&logo=openjdk&logoColor=white)
+![C](https://img.shields.io/badge/C-ff69b4?style=for-the-badge&logo=c&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-ff1493?style=for-the-badge&logo=javascript&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-ff4da6?style=for-the-badge&logo=mysql&logoColor=white)
 
 </td>
 <td align="center" width="50%">
 
-**Frontend & Backend**
+**Web Development**
 
 ![React](https://img.shields.io/badge/React-ff1493?style=for-the-badge&logo=react&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-ff4da6?style=for-the-badge&logo=flask&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-ff69b4?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-ff1493?style=for-the-badge&logo=express&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind-ff4da6?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-ff4da6?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-ff69b4?style=for-the-badge&logo=css3&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-ff1493?style=for-the-badge&logo=flask&logoColor=white)
+![REST APIs](https://img.shields.io/badge/REST_APIs-ff4da6?style=for-the-badge&logo=fastapi&logoColor=white)
 ![WebSockets](https://img.shields.io/badge/WebSockets-ff69b4?style=for-the-badge&logo=socketdotio&logoColor=white)
 
 </td>
@@ -53,18 +51,18 @@ Final year CS & Data Science student at VNR VJIET · Building AI-powered full-st
 <tr>
 <td align="center" width="50%">
 
-**AI & ML**
+**Gen AI & ML**
 
-![PyTorch](https://img.shields.io/badge/PyTorch-ff1493?style=for-the-badge&logo=pytorch&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-ff4da6?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-ff1493?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-ff4da6?style=for-the-badge&logo=pytorch&logoColor=white)
 ![LangChain](https://img.shields.io/badge/LangChain-ff69b4?style=for-the-badge&logo=chainlink&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-ff1493?style=for-the-badge&logo=opencv&logoColor=white)
-![Gemini AI](https://img.shields.io/badge/Gemini_AI-ff4da6?style=for-the-badge&logo=google&logoColor=white)
-![YOLO](https://img.shields.io/badge/YOLO-ff69b4?style=for-the-badge&logo=yolo&logoColor=white)
+![NLP](https://img.shields.io/badge/NLP-ff1493?style=for-the-badge&logo=google&logoColor=white)
+![RAG](https://img.shields.io/badge/RAG-ff4da6?style=for-the-badge&logo=openai&logoColor=white)
+![LLMs](https://img.shields.io/badge/LLMs-ff69b4?style=for-the-badge&logo=huggingface&logoColor=white)
 
 </td>
 <td align="center" width="50%">
-
+  
 **Databases & Cloud**
 
 ![MongoDB](https://img.shields.io/badge/MongoDB-ff1493?style=for-the-badge&logo=mongodb&logoColor=white)
@@ -80,18 +78,17 @@ Final year CS & Data Science student at VNR VJIET · Building AI-powered full-st
 
 **Tools & Platforms**
 
-![Git](https://img.shields.io/badge/Git-ff1493?style=for-the-badge&logo=git&logoColor=white)
+![Git](https://img.shields.io/badge/Git-ff4da6?style=for-the-badge&logo=git&logoColor=white)
+![Tableau](https://img.shields.io/badge/Tableau-ff69b4?style=for-the-badge&logo=tableau&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-ff1493?style=for-the-badge&logo=powerbi&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-ff4da6?style=for-the-badge&logo=figma&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-ff69b4?style=for-the-badge&logo=postman&logoColor=white)
-![Tableau](https://img.shields.io/badge/Tableau-ff1493?style=for-the-badge&logo=tableau&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power_BI-ff4da6?style=for-the-badge&logo=powerbi&logoColor=white)
-![Figma](https://img.shields.io/badge/Three.js-ff69b4?style=for-the-badge&logo=threedotjs&logoColor=white)
 
 </td>
 </tr>
 </table>
-
 </div>
+
 <br>
 <!-- GitHub Analytics -->
 
@@ -148,10 +145,6 @@ Final year CS & Data Science student at VNR VJIET · Building AI-powered full-st
 
 <a href="mailto:pulluripranavi@gmail.com">
 <img src="https://img.shields.io/badge/Email-ff4da6?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="https://github.com/Pranavipulluri">
-<img src="https://img.shields.io/badge/GitHub-ff69b4?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 <a href="https://www.instagram.com/pranavi_pulluri/">
